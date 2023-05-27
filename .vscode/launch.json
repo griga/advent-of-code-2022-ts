@@ -8,10 +8,10 @@
     {
       "type": "node",
       "request": "launch",
-      "name": "day05",
+      "name": "day07",
       "skipFiles": ["<node_internals>/**"],
       "runtimeExecutable": "${workspaceFolder}/node_modules/.bin/ts-node",
-      "args": ["./day05/day05.ts"],
+      "args": ["./day07/day07.ts"],
       "cwd": "${workspaceFolder}",
       "console": "integratedTerminal"
     },
